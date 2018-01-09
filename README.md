@@ -7,7 +7,7 @@
 **Steps to follow**
 
 :one: clone git repo with 
-**npm clone https://github.com/SachinKasar/reactjs-redux-async-actions-thunk.git**
+**git clone https://github.com/SachinKasar/reactjs-redux-async-actions-thunk.git**
 
 :two: install npm packages with command
 **npm install**
